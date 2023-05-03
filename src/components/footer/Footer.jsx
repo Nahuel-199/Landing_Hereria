@@ -51,7 +51,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://walink.co/ac5ec4"
+            href="https://walink.co/31b0ff"
             className="footer__social-link"
             target="_blank"
             rel="noreferrer"
